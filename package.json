@@ -1,14 +1,14 @@
 {
-  "name": "munder-difflin",
-  "version": "0.6.0",
-  "private": true,
-  "description": "Clones for you and your team, working 24/7 \u2014 a free, local-first multi-agent harness that turns the CLI coding agent you already run into a clone of you, coordinating an office of agents on your machine.",
-  "main": "out/main/index.js",
-  "author": "Chaitanya Giri",
-  "homepage": "https://munderdiffl.in/",
+  "name": "taskhive",
+"version": "0.6.0",
+"private": true,
+"description": "A desktop app that runs a team of AI agents on your own computer.",
+"main": "out/main/index.js",
+"author": "Thakur Pururajsinh Jaspalsinh",
+    "homepage": "https://github.com/pururaj122/munder-difflin",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chaitanyagiri/munder-difflin.git"
+    "url": "https://github.com/pururaj122/munder-difflin.git"
   },
   "scripts": {
     "dev": "electron-vite dev",
